@@ -24,9 +24,9 @@ Rendering scripts and results can be found [here](shapenet). Images rendered wit
 ![alt text](shapenet/sample-chair-shapenet.png "ShapeNet importer")
 ![alt text](shapenet/sample-chair-obj.png "Mitsuba OBJ importer")
 
-#### Download
 
-A compiled Windows x64 DLL can be downloaded [here](http://share.shijian.org.cn/shapenet/render/shapenet.dll) . Please put it under 'plugins' folder.
 
 ### Additional Notes
 Besides having to follow the mitsuba build instructions in its manual probably the config.py has to be edited to include the gcc flag --std=c++0x.
+
+
